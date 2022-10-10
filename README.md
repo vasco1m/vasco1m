@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vasco1m
+- 👋 Hi, I’m Vasco Matos
 - 🌱 I’m currently obtaining a master degree in Informatic Engeenering at Universidade do Minho.
 - 📫 How to reach me :email: [email](vasco.matos.2001@gmail.com) [LinkedIn](https://www.linkedin.com/in/vasco--matos/)
 
