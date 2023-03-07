@@ -5,7 +5,7 @@
     - 🔗 [LinkedIn](https://www.linkedin.com/in/vasco--matos/)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasco1m)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vasco1m&hide=contribs,prs&count_private=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 vasco1m/vasco1m is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
